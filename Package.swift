@@ -14,7 +14,7 @@ let package = Package(
     dependencies: [
         // Dependencies declare other packages that this package depends on.
         .package(url: "https://github.com/krzyzanowskim/CryptoSwift.git", .upToNextMinor(from: "1.0.0")),
-        .package(url: "https://github.com/attaswift/BigInt.git", from: "3.1.0"),
+        .package(url: "https://github.com/attaswift/BigInt.git", from: "5.0.0"),
         .package(url: "https://github.com/shamatar/EthereumAddress.git", from: "1.3.0") ],
     targets: [
         // Targets are the basic building blocks of a package. A target can define a module or a test suite.

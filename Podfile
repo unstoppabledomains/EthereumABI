@@ -2,7 +2,7 @@ source 'https://github.com/CocoaPods/Specs.git'
 # source 'https://cdn.cocoapods.org/'
 
 def import_pods
-  pod 'BigInt', '~> 3.1'
+  pod 'BigInt', '~> 5.0'
   pod 'CryptoSwift', '~> 1.0'
   pod 'EthereumAddress', '~> 1.3'
 end

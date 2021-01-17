@@ -6,8 +6,8 @@
         "repositoryURL": "https://github.com/attaswift/BigInt.git",
         "state": {
           "branch": null,
-          "revision": "018a5925f60f9e0523edd261de394a0898fe95b7",
-          "version": "3.1.0"
+          "revision": "889a1ecacd73ccc189c5cb29288048f186c44ed9",
+          "version": "5.2.1"
         }
       },
       {
@@ -24,17 +24,8 @@
         "repositoryURL": "https://github.com/shamatar/EthereumAddress.git",
         "state": {
           "branch": null,
-          "revision": "1f7020a13833c11b18575775402f2b46c77a4266",
-          "version": "1.1.1"
-        }
-      },
-      {
-        "package": "SipHash",
-        "repositoryURL": "https://github.com/attaswift/SipHash",
-        "state": {
-          "branch": null,
-          "revision": "e325083424688055363bbfcb7f1a440d7d7a1bae",
-          "version": "1.2.2"
+          "revision": "a8eb4fc1dc03c068bf88585d8f5a2dd3572664ca",
+          "version": "1.3.0"
         }
       }
     ]
